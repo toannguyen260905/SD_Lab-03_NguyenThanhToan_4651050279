@@ -1,6 +1,5 @@
 package ca.mcgill.solitaire.cards;
 
-/** Run as a Java Application to demonstrate Exercise 12 without JavaFX. */
 public final class PokerDemo {
     private PokerDemo() {}
 
